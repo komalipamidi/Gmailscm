@@ -36,6 +36,8 @@ public class GmailLogin {
 		driver.findElement(By.id("Passwd")).sendKeys("komalii238");
 		driver.findElement(By.id("signIn")).click();
 		System.out.println("Test passed..!!!");
+		System.out.println("Test passed..!!!");
+				
 	}
 	
 	@AfterClass
